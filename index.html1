@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Progate</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="header-left">
+        </div>
+        <div class="header-right">
+          <a href="#" class="login">✈</a>
+        </div>
+      </div>
+    </header>
+    <div class="top-wrapper">
+      <div class="container">
+        <h1>Jeong`s Portal site</h1>
+        <h1>LEARN TO BE CREATIVE.</h1>
+        
+        <p>〇〇や〇〇など確認が必要な項目を収容</p>
+       
+      </div>
+    </div>
+    <div class="lesson-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h2>Items</h2>
+        </div>
+      
+       <div class="lessons">
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="https://prog-8.com/images/html/advanced/html.png">
+              <p>Tool</p>
+            </div>
+            <p class="txt-contents">ツールの料金形態や申込方法など</p>
+          </div>
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="https://prog-8.com/images/html/advanced/jQuery.png">
+              <p>Portal</p>
+            </div>
+            <p class="txt-contents">ポータルなど</p>
+          </div>
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="https://prog-8.com/images/html/advanced/ruby.png">
+              <p>その他</p>
+            </div>
+            <p class="txt-contents">その他あれば</p>
+          </div>
+          <div class="lesson">
+            <div class="lesson-icons">
+             <div class="lesson-yosi"> 
+              <img src="https://prtimes.jp/i/20202/176/resize/d20202-176-656978-3.png">
+             </div>
+            </div>
+          </div>
+        </div>
+       
+      </div>
+    </div>
+    <div class="message-wrapper">
+      <div class="container">
+        <div class="heading">
+
+          <h3>aaaaaa</h3>
+        </div>
+        <span class="btn message">管理者編集ページへ</span>
+      </div>
+    </div>
+    <footer>
+
+        <p>learn to be creative.</p>
+       </footer>
+  </body>
+</html>
